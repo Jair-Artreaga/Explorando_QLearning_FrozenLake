@@ -7,7 +7,6 @@ Este proyecto implementa el algoritmo de Q-Learning en el entorno `FrozenLake-v1
 Comprender el funcionamiento del algoritmo Q-Learning aplicado al entorno FrozenLake y analizar el efecto de los parámetros clave del aprendizaje por refuerzo sobre el rendimiento del agente.
 
 ## 🗂 Estructura del Proyecto
-## Estructura del Proyecto
 ```
 📂 Explorando_QLearning_FrozenLake
 │── 📂 data  # Datos generados para las pruebas
